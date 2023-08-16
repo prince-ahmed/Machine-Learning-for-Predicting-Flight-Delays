@@ -1,5 +1,8 @@
 # Flight Delay Prediction Project
 
+![Connected Pendulums](./Fig\ .png)
+
+
 ## Group Members
 - Neha Karna (nak28)
 - Maille Sherry (mm136)
