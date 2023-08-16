@@ -1,6 +1,7 @@
 # Flight Delay Prediction Project
 
-![Connected Pendulums](./Fig\ 3.png)
+![Connected Pendulums](./Fig_3.png)
+![Connected Pendulums](./Fig_4.png)
 
 
 ## Group Members
